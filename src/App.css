@@ -1,0 +1,49 @@
+body {
+  background-color: #2c4872;
+  color: #ffffff;
+  }
+  
+.app-title {
+  color: #ffffff;
+  margin-top: 2rem;
+  position: relative;
+  left: -33rem;
+  top:-14px;
+  font-family: fantasy;
+  }
+.submit-button{
+  position: relative;
+  bottom:-13px;
+  background: #0060f0;
+  border-radius: 12px;
+}
+.Score{
+  position:relative;
+  align-items: center;
+  top:113px;
+}
+.Question-option{
+    position: relative;
+    top:13px;
+    font-family: cursive;
+}
+.logo{
+  position: relative;
+  height:113px;
+  left:-624px;
+  bottom: -93px;
+}
+.task-bar{
+  position: relative;
+  top: -83px;
+}
+.Home{
+  position:relative;
+  top:-65px;
+  right:-534px;
+}
+.sigin{
+  position: inherit;
+  top:-65px;
+  right:-564px;
+}
